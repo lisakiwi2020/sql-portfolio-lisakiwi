@@ -25,6 +25,23 @@ It includes the following tables:
 4. **Revenue performance by store and staff**
 5. **Customer churn: inactive customers in the past 90+ days**
 
+📊 Key Business Questions Answered
+Who are the top customers by total spend?
+Identify the most valuable customers based on lifetime order value.
+
+What are the monthly sales trends?
+Summarise total revenue by month to understand seasonality and growth patterns.
+
+Which products are the best sellers?
+Rank products by total quantity sold to inform inventory and marketing strategies.
+
+Which stores and staff generate the most revenue?
+Compare performance across locations and sales staff to optimise resource allocation.
+
+Which customers are inactive or likely to churn?
+Detect customers who haven’t placed an order in the past 90 days.
+
+
 ---
 
 ## 🛠️ Tools Used
